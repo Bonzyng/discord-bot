@@ -1,4 +1,3 @@
-import sx.blah.discord.api.IDiscordClient;
 import sx.blah.discord.api.events.EventDispatcher;
 
 public class Main {
